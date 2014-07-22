@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SunshineApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="high_temp_txt">20 °C</string>
+    <string name="today_txt">Today, July 22</string>
+    <string name="low_temp_txt">15 °C</string>
+    <string name="sunny_txt">Sunny</string>
+    <string name="action_refresh">Refresh</string>
+
+</resources>
