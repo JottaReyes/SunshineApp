@@ -9,5 +9,6 @@
     <string name="low_temp_txt">15 °C</string>
     <string name="sunny_txt">Sunny</string>
     <string name="action_refresh">Refresh</string>
+    <string name="title_activity_detail">Detail Activity</string>
 
 </resources>
